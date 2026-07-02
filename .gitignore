@@ -1,0 +1,79 @@
+# ==========================================
+# NODE / REACT / JSX / TAILWIND
+# ==========================================
+node_modules/
+/dist
+/build
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.parcel-cache
+.eslintcache
+
+# ==========================================
+# PYTHON / ROS 2
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.coverage
+install/
+build/
+log/
+
+# ==========================================
+# VERILOG & INTEL QUARTUS PRIME (FPGA)
+# ==========================================
+# NEVER ignore your .v, .qpf (project), or .qsf (settings/pin assignments) files!
+
+# Ignore massive hardware compilation cache directories
+db/
+incremental_db/
+simulation/
+greybox_tmp/
+hc_output/
+
+# Ignore compiled programming bitstreams and reports
+*.sof
+*.pof
+*.rpt
+*.jic
+*.summary
+*.jdi
+*.pin
+*.qws
+*.bak
+*.orig
+*.done
+*.chg
+
+# Ignore ModelSim / EDA simulation tools artifacts
+work/
+*.mpf
+*.wlf
+vsim.wlf
+timing/
+.qsys_edit/
+wlft*
+*.smsg
+*.jditmp
+*.sld
+
+# ==========================================
+# SYSTEM & IDE FILES
+# ==========================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp

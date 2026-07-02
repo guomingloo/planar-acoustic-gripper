@@ -1,0 +1,2085 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a42a2a9c-7580-4ef2-95fc-55ff6a8b07d8")
+	(paper "A4")
+	(lib_symbols)
+	(bus
+		(pts
+			(xy 52.07 173.99) (xy 78.74 173.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c21e8ca1-22b8-4775-b0dc-803a33b5992c")
+	)
+	(label "UM16"
+		(at 208.28 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0293a0c1-4d8a-4a3a-9a30-389354d2fcab")
+	)
+	(label "UM14"
+		(at 171.45 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "056ab941-7490-4920-8f3a-19ad32a3df4f")
+	)
+	(label "UM24"
+		(at 62.23 148.59 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "0b2714fc-40ed-41b7-985c-3abe1f2a6df1")
+	)
+	(label "UM12"
+		(at 135.89 78.74 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "16c411c4-f1f8-4343-a236-8a483daadd37")
+	)
+	(label "UM32"
+		(at 175.26 129.54 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "17a8b908-f230-47db-89b8-efa950a70b59")
+	)
+	(label "UM31"
+		(at 175.26 106.68 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1c806094-9910-4ca2-8e30-3e02d64b1bb8")
+	)
+	(label "UM4"
+		(at 62.23 31.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2ba0c8ec-7818-4e7b-932b-ef0ea6655574")
+	)
+	(label "UM23"
+		(at 62.23 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "31b2ea92-9456-4f16-9f2b-f905dba88867")
+	)
+	(label "UM25"
+		(at 100.33 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3cb6b2e7-b2b0-4c64-bf90-52246cf828d2")
+	)
+	(label "UM33"
+		(at 175.26 153.67 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "42391b04-ad6c-497c-a1dc-d10119416046")
+	)
+	(label "UM27"
+		(at 100.33 149.86 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "44685221-af5c-47c3-a1c0-edb4b7c976eb")
+	)
+	(label "UM18"
+		(at 208.28 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "47f71ea3-c2de-4ece-a54b-332fcac966b5")
+	)
+	(label "UM8"
+		(at 99.06 55.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4b304869-5fb9-466a-96b9-e73a0294132a")
+	)
+	(label "UM6"
+		(at 62.23 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "4b48cb49-0fbe-4f86-ac30-d033fa1f9eab")
+	)
+	(label "UM[1..33]"
+		(at 58.42 173.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4de37e4a-50bf-4034-bdf4-7722b57f0246")
+	)
+	(label "UM3"
+		(at 25.4 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "618a8c39-9527-4710-9df6-c9cbc55bd172")
+	)
+	(label "UM15"
+		(at 171.45 80.01 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "61ead7f7-ea20-45cd-94e2-3a4e7801e7c4")
+	)
+	(label "UM13"
+		(at 171.45 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6401043f-ded0-40c2-b339-510e21e960d8")
+	)
+	(label "UM30"
+		(at 137.16 151.13 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6be96ebe-f4cd-446e-ae2e-0affea3bb52f")
+	)
+	(label "UM7"
+		(at 99.06 33.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "877697f2-2730-489e-ac72-7683970c0230")
+	)
+	(label "UM19"
+		(at 25.4 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8be0c314-c0a8-40a9-8ada-57d0a8885ad1")
+	)
+	(label "UM11"
+		(at 135.89 55.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8e3ffbcc-7c3b-499b-95d0-70e0fd1e9305")
+	)
+	(label "UM22"
+		(at 62.23 104.14 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "931f1252-e4ce-4c9a-8d84-be8c4fabd5a3")
+	)
+	(label "UM9"
+		(at 99.06 77.47 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "93516cd6-e293-4dfb-95cd-faba223e9bb8")
+	)
+	(label "UM20"
+		(at 25.4 125.73 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a3521db0-5186-4915-bb75-183190c25024")
+	)
+	(label "UM26"
+		(at 100.33 127 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a5477570-0fce-4fa4-bec4-29e7f8314c47")
+	)
+	(label "UM1"
+		(at 25.4 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "afaf6dd9-f9fe-40ae-9da9-68b0f28e2f74")
+	)
+	(label "UM17"
+		(at 208.28 57.15 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b18f5f1b-d59c-48a1-b005-f8451e4907e1")
+	)
+	(label "UM21"
+		(at 25.4 148.59 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b4a340bf-8da9-4fb5-b604-7392174ffad6")
+	)
+	(label "UM28"
+		(at 137.16 105.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "bee2c69e-0244-4940-a9e1-385534ad9d12")
+	)
+	(label "UM10"
+		(at 135.89 34.29 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c0eb4feb-78b8-49af-a818-ec7c5e610523")
+	)
+	(label "UM29"
+		(at 137.16 128.27 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d868397d-1cbb-475e-90f6-0480cb622a37")
+	)
+	(label "UM2"
+		(at 25.4 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e4354605-e9fe-48e8-8c20-e66ed5fd5bfd")
+	)
+	(label "UM5"
+		(at 62.23 54.61 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fb0101d0-fc9c-4378-af31-ffab725bda5d")
+	)
+	(hierarchical_label "UM[1..33]"
+		(shape input)
+		(at 78.74 173.99 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "88e7f2c5-4cea-4891-b461-7a7867416d23")
+	)
+	(sheet
+		(at 25.4 99.06)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "10a53a86-530a-4c4e-b570-7f1a59c2e897")
+		(property "Sheetname" "UltrasonicModule18"
+			(at 25.4 98.3484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 25.4 114.8846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 25.4 104.14 180)
+			(uuid "03c5cb35-ebfe-412c-8c8c-7913ee13b08f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "21")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 146.05)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1c8415eb-91ce-4656-a78b-e866bb93c091")
+		(property "Sheetname" "UltrasonicModule26"
+			(at 100.33 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 100.33 161.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 100.33 149.86 180)
+			(uuid "eb2e34c3-0b42-43db-b313-888e14507359")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "29")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 50.8)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1f125ef2-cc78-4888-a30f-ab8b0df33151")
+		(property "Sheetname" "UltrasonicModule4"
+			(at 62.23 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 62.23 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 62.23 54.61 180)
+			(uuid "eb8cd941-7985-4c7f-85b1-9272a8df1375")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.89 52.07)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "274e1fe9-2384-4feb-ad77-993290fcc402")
+		(property "Sheetname" "UltrasonicModule10"
+			(at 135.89 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 135.89 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 135.89 55.88 180)
+			(uuid "4544f785-8a19-4ac5-aa1d-41ce95396f59")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "13")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 76.2)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "29ff4a90-e725-4b61-8000-93a767032073")
+		(property "Sheetname" "UltrasonicModule17"
+			(at 208.28 75.4884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 208.28 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 208.28 80.01 180)
+			(uuid "627d922e-f797-4c87-8d02-fc603057abcf")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "20")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 72.39)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "37f052ac-7501-4c99-8727-a86f8039cab7")
+		(property "Sheetname" "UltrasonicModule2"
+			(at 25.4 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 25.4 88.2146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 25.4 80.01 180)
+			(uuid "82c035e6-e677-4c93-a421-d0159d70769c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 144.78)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "381d626b-2f4c-4422-9b0f-26adccc7ea00")
+		(property "Sheetname" "UltrasonicModule20"
+			(at 25.4 144.0684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 25.4 160.6046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 25.4 148.59 180)
+			(uuid "282b6bb3-28a1-4cfc-a29c-9db8a67303cd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "23")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 73.66)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "55a08da6-9461-4435-8192-e43eb05d07a6")
+		(property "Sheetname" "UltrasonicModule5"
+			(at 62.23 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 62.23 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 62.23 77.47 180)
+			(uuid "9b948f08-353b-429e-96ae-b4730ce4c3bb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "8")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.89 74.93)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6bc08b7a-8c8d-4b33-96b3-c0f557373fe3")
+		(property "Sheetname" "UltrasonicModule11"
+			(at 135.89 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 135.89 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 135.89 78.74 180)
+			(uuid "0036c785-0d42-4752-95c8-59e1cb806d7f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "14")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 124.46)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "71a5261b-d743-46f2-9d82-8c6e51b904fb")
+		(property "Sheetname" "UltrasonicModule28"
+			(at 137.16 123.7484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 137.16 140.2846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 137.16 128.27 180)
+			(uuid "c1442658-2ebb-4af0-b15c-b0da2ea88d9c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "31")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 100.33)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "778e873b-3e56-4b38-b723-fb2fda9d7f14")
+		(property "Sheetname" "UltrasonicModule21"
+			(at 62.23 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 62.23 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 62.23 104.14 180)
+			(uuid "7cc6482a-01a3-4118-a6c0-797346af0b10")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "24")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 53.34)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7c9c3632-0c3b-4eca-af75-60e36038c6ba")
+		(property "Sheetname" "UltrasonicModule16"
+			(at 208.28 52.6284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 208.28 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 208.28 57.15 180)
+			(uuid "4ab94029-ce00-46d0-b5ec-5b2f096cd57e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "19")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 171.45 52.07)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7d987b08-d476-4e8e-8193-efe5ff45cb15")
+		(property "Sheetname" "UltrasonicModule13"
+			(at 171.45 51.3584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 171.45 67.8946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 171.45 57.15 180)
+			(uuid "03a1a84d-bae4-4fd9-ab50-12bea6d74135")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "16")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 121.92)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8183359e-b88d-45ec-9c89-9f6a47c3355a")
+		(property "Sheetname" "UltrasonicModule19"
+			(at 25.4 121.2084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 25.4 137.7446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 25.4 125.73 180)
+			(uuid "00589ed0-f3bc-47b3-97d1-1b8d91fce83f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "22")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 135.89 29.21)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8c2f336f-126c-4761-9797-8b11ed7c2d1c")
+		(property "Sheetname" "UltrasonicModule9"
+			(at 135.89 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 135.89 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 135.89 34.29 180)
+			(uuid "81a5c08d-8b52-4538-9484-3758d84288e2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "12")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 101.6)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "946feca3-bdff-4b29-b5f1-0421882945c7")
+		(property "Sheetname" "UltrasonicModule27"
+			(at 137.16 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 137.16 117.4246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 137.16 105.41 180)
+			(uuid "ac026f4d-8f1c-47bf-be58-68dee68ca2dd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "30")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 171.45 74.93)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "96a1748a-2a01-44c9-9cd2-9137415a2c1c")
+		(property "Sheetname" "UltrasonicModule14"
+			(at 171.45 74.2184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 171.45 90.7546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 171.45 80.01 180)
+			(uuid "05ff9105-99a8-4b62-a817-936f9501f512")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 171.45 29.21)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "9d412eae-6fe4-4bbf-bf6e-52796fda9c47")
+		(property "Sheetname" "UltrasonicModule12"
+			(at 171.45 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 171.45 45.0346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 171.45 33.02 180)
+			(uuid "28ef8c55-9729-427c-beee-d25dfd569a6c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "15")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 208.28 30.48)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a2845d38-846c-4d3e-a9bc-50684f5e5db2")
+		(property "Sheetname" "UltrasonicModule15"
+			(at 208.28 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 208.28 46.3046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 208.28 34.29 180)
+			(uuid "9a17742a-11e8-44e8-a95d-6d7290f4705d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "18")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 100.33)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a7eb480b-e7a4-4300-ad1a-f4748f59e848")
+		(property "Sheetname" "UltrasonicModule24"
+			(at 100.33 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 100.33 116.1546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 100.33 105.41 180)
+			(uuid "6d5cef0a-0804-4c6e-8db9-74a9bb366184")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "27")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 146.05)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b35193b7-c00a-42dd-a2ad-ee05f404c176")
+		(property "Sheetname" "UltrasonicModule23"
+			(at 62.23 145.3384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 62.23 161.8746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 62.23 148.59 180)
+			(uuid "807666f7-b084-4d37-9530-997d27b03275")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "26")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 26.67)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b6941de6-8dfc-4362-9edb-f7d5270e3502")
+		(property "Sheetname" "UltrasonicModule"
+			(at 25.4 25.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 25.4 42.4946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 25.4 34.29 180)
+			(uuid "ac5f7268-b99c-44cf-9501-3a00805dffa6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 137.16 147.32)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c689eb26-0e6c-4ff4-8d58-8389d392d2c0")
+		(property "Sheetname" "UltrasonicModule29"
+			(at 137.16 146.6084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 137.16 163.1446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 137.16 151.13 180)
+			(uuid "473a2462-50db-47fe-b5b9-8d0476fedc30")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "32")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 100.33 123.19)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ce53721e-d311-411d-8ac3-e5e123a26c0c")
+		(property "Sheetname" "UltrasonicModule25"
+			(at 100.33 122.4784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 100.33 139.0146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 100.33 127 180)
+			(uuid "6eb1b1bc-eeb4-4a51-8443-57c1ad01612e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "28")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 148.59)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cf02661a-578f-4fce-9ec6-4b3778e26817")
+		(property "Sheetname" "UltrasonicModule32"
+			(at 175.26 147.8784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 175.26 164.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 175.26 153.67 180)
+			(uuid "6b999e7d-24b2-4ae3-979f-b89df3996bf0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "35")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 49.53)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "d6334d26-a196-4a37-8261-ca5670517882")
+		(property "Sheetname" "UltrasonicModule1"
+			(at 25.4 48.8184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 25.4 65.3546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 25.4 54.61 180)
+			(uuid "c00a5c0c-7a0f-4b08-b1f3-e857e508bff2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 27.94)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e1a05d71-d08e-4a8c-a7ce-11e13e38bfec")
+		(property "Sheetname" "UltrasonicModule6"
+			(at 99.06 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 99.06 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 99.06 33.02 180)
+			(uuid "c8ef3c6e-5d0d-40a8-a58f-ef9f3ca6557f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 27.94)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e87342b3-1323-40c7-9b80-403bc906b6a9")
+		(property "Sheetname" "UltrasonicModule3"
+			(at 62.23 27.2284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 62.23 43.7646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 62.23 31.75 180)
+			(uuid "8b0702bc-2566-43d2-b520-25f05be18f2f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 50.8)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "ead10966-9b1d-4d76-87d1-ce446925cc2f")
+		(property "Sheetname" "UltrasonicModule7"
+			(at 99.06 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 99.06 66.6246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 99.06 55.88 180)
+			(uuid "a82782d4-309f-4e2c-9d40-88e26286b43b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 125.73)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "eb738768-31c5-4c42-95a3-ea2071bd6429")
+		(property "Sheetname" "UltrasonicModule31"
+			(at 175.26 125.0184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 175.26 141.5546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 175.26 129.54 180)
+			(uuid "b011b498-ca2b-4166-ad10-7bf2e0b069b2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "34")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 99.06 73.66)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f280c03c-f633-4f55-a74a-92fd7763f557")
+		(property "Sheetname" "UltrasonicModule8"
+			(at 99.06 72.9484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 99.06 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 99.06 77.47 180)
+			(uuid "de619413-0f4f-427a-ba33-8270064540f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "11")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 175.26 102.87)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "f42576bf-f813-4f97-a545-caff2c17969d")
+		(property "Sheetname" "UltrasonicModule30"
+			(at 175.26 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 175.26 118.6946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 175.26 106.68 180)
+			(uuid "597f16bd-1a06-4565-971d-49014a34ebbe")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "33")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 62.23 123.19)
+		(size 29.21 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fef800d7-d35c-4f64-8c56-4aff221bfa0f")
+		(property "Sheetname" "UltrasonicModule22"
+			(at 62.23 122.4784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ultrasonic_module.kicad_sch"
+			(at 62.23 139.0146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "A1" input
+			(at 62.23 127 180)
+			(uuid "ba7aa422-f3bf-491e-98e0-b84cbafe1121")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_DaughterboardV1.1"
+				(path "/885e66c8-bc3b-472f-b8c6-96372140f719/d530e340-f6d9-4c36-bd50-09f108efa579"
+					(page "25")
+				)
+			)
+		)
+	)
+)

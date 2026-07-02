@@ -1,0 +1,1024 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "a2ffdf3a-6afe-4edc-947d-25e667632c6c")
+	(paper "A4")
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 121.92 132.08) (xy 121.92 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "044d514d-45b2-4a27-b719-604448cffb1b")
+	)
+	(wire
+		(pts
+			(xy 153.67 121.92) (xy 153.67 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07fa05c1-7650-4f91-9276-12f9d43e6a5b")
+	)
+	(wire
+		(pts
+			(xy 153.67 93.98) (xy 161.29 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "16cb93fb-1548-489a-9f6e-fa4e072958c0")
+	)
+	(wire
+		(pts
+			(xy 139.7 116.84) (xy 143.51 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b3e25cd-e72a-4d27-95af-3b95d99d6475")
+	)
+	(wire
+		(pts
+			(xy 161.29 96.52) (xy 154.94 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2489b1be-ad74-49a2-af58-90660c5f4470")
+	)
+	(wire
+		(pts
+			(xy 114.3 116.84) (xy 110.49 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "28610b7e-87ae-453b-9ba1-824a0a530bd2")
+	)
+	(wire
+		(pts
+			(xy 139.7 114.3) (xy 142.24 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e385413-a812-42e3-8078-c5c2c39824b2")
+	)
+	(wire
+		(pts
+			(xy 165.1 124.46) (xy 158.75 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e3849db-5abc-4831-9378-c7ee9b8bd624")
+	)
+	(wire
+		(pts
+			(xy 139.7 127) (xy 165.1 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4059e3d9-18bf-4a8b-bb94-b3ba61bc7e77")
+	)
+	(wire
+		(pts
+			(xy 128.27 133.35) (xy 128.27 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48106086-2ebc-4947-907e-f788a3abd806")
+	)
+	(wire
+		(pts
+			(xy 114.3 114.3) (xy 111.76 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52c9be1c-ef1a-4ed8-a05e-a15498ce4957")
+	)
+	(wire
+		(pts
+			(xy 114.3 111.76) (xy 113.03 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59ff6104-bb91-44c2-9caa-f51d5837029f")
+	)
+	(bus
+		(pts
+			(xy 139.7 129.54) (xy 165.1 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ebb245b-401f-478b-b496-8d9c670936a0")
+	)
+	(wire
+		(pts
+			(xy 158.75 124.46) (xy 158.75 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6858f8b9-e403-491b-9c8e-cf21228e7201")
+	)
+	(wire
+		(pts
+			(xy 116.84 135.89) (xy 123.19 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "722fd545-a3c0-4240-89f9-716054641110")
+	)
+	(wire
+		(pts
+			(xy 144.78 90.17) (xy 139.7 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "787e94f8-9544-4dc0-ab92-7765de4cb50a")
+	)
+	(wire
+		(pts
+			(xy 143.51 92.71) (xy 139.7 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84635172-45d1-4558-9e62-93483dad87fb")
+	)
+	(wire
+		(pts
+			(xy 121.92 133.35) (xy 128.27 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8641badb-6b60-4960-be9d-a01bfffd02f8")
+	)
+	(wire
+		(pts
+			(xy 139.7 119.38) (xy 144.78 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8af26fa1-aa41-46d5-8410-4476a66662a0")
+	)
+	(wire
+		(pts
+			(xy 142.24 95.25) (xy 139.7 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8af749fc-077a-4833-9b84-5791f969d9f2")
+	)
+	(wire
+		(pts
+			(xy 143.51 116.84) (xy 143.51 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ef64ce7-cc84-4c78-ac24-8a3086f8767b")
+	)
+	(wire
+		(pts
+			(xy 119.38 132.08) (xy 119.38 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90abbfae-b52f-4482-ad56-de13c02af2bb")
+	)
+	(wire
+		(pts
+			(xy 140.97 97.79) (xy 139.7 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9465b89b-775a-4065-98ea-2f0a990952e2")
+	)
+	(wire
+		(pts
+			(xy 116.84 132.08) (xy 116.84 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c3e79ec-0fb2-4648-9eb1-788f57925001")
+	)
+	(wire
+		(pts
+			(xy 110.49 116.84) (xy 110.49 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9dbcf152-0383-433e-880e-0b12da46a8e3")
+	)
+	(wire
+		(pts
+			(xy 109.22 119.38) (xy 109.22 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1ba3813-1509-4aee-a255-768c7c4881b9")
+	)
+	(wire
+		(pts
+			(xy 139.7 121.92) (xy 153.67 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3e39d7b-e3ca-48a2-bf88-f6bf30fcbb68")
+	)
+	(wire
+		(pts
+			(xy 109.22 90.17) (xy 114.3 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a690af64-324d-438e-9f35-400b8c5d4949")
+	)
+	(wire
+		(pts
+			(xy 110.49 92.71) (xy 114.3 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3e85ce6-f466-4acf-ade5-0c225d61e7cb")
+	)
+	(wire
+		(pts
+			(xy 114.3 119.38) (xy 109.22 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be4b4dc7-cdf5-4516-97b3-7c2eb0311c16")
+	)
+	(wire
+		(pts
+			(xy 140.97 111.76) (xy 140.97 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0face39-32ef-4a9c-aec4-dfb05d1c5bfc")
+	)
+	(wire
+		(pts
+			(xy 119.38 134.62) (xy 125.73 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "caaa1f1f-c2d7-4067-bf2d-9525d308072f")
+	)
+	(wire
+		(pts
+			(xy 123.19 135.89) (xy 123.19 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e383432d-7502-4da7-813f-6f5263abd6b1")
+	)
+	(wire
+		(pts
+			(xy 111.76 95.25) (xy 114.3 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3c4ba0e-4f4a-4611-897f-e707730cffbd")
+	)
+	(wire
+		(pts
+			(xy 113.03 111.76) (xy 113.03 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5895019-0f00-42ba-b805-8286502533fb")
+	)
+	(wire
+		(pts
+			(xy 113.03 97.79) (xy 114.3 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6199bd4-44db-493f-a30f-7c97752d55cb")
+	)
+	(wire
+		(pts
+			(xy 158.75 99.06) (xy 161.29 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e62dde20-b343-4b80-b5bc-41d64da65031")
+	)
+	(wire
+		(pts
+			(xy 154.94 96.52) (xy 154.94 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f148f7d3-9b26-4715-93e5-35e88facb614")
+	)
+	(wire
+		(pts
+			(xy 144.78 119.38) (xy 144.78 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f17fdee4-4dc5-4fe8-b1ea-b975580aa2ba")
+	)
+	(wire
+		(pts
+			(xy 111.76 114.3) (xy 111.76 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f35156a3-5c8e-4181-82fc-8d138350ca8a")
+	)
+	(wire
+		(pts
+			(xy 139.7 124.46) (xy 154.94 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa242dca-22c5-4170-8ea2-8dc92fff076d")
+	)
+	(wire
+		(pts
+			(xy 142.24 114.3) (xy 142.24 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbf07e41-42a0-4dc0-8795-051395b7cf25")
+	)
+	(wire
+		(pts
+			(xy 139.7 111.76) (xy 140.97 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdded2e5-8d06-41ac-ba4c-99b5b4b292ca")
+	)
+	(wire
+		(pts
+			(xy 125.73 134.62) (xy 125.73 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff34edb7-69f4-4d34-a4c7-ac9e20b277d3")
+	)
+	(sheet
+		(at 117.475 140.97)
+		(size 15.24 17.145)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3b101ca5-7de6-4c15-8e69-54ea6a3ea6ad")
+		(property "Sheetname" "Communications"
+			(at 117.221 159.131 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "communication.kicad_sch"
+			(at 117.221 159.639 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "UART_DIR" input
+			(at 123.19 140.97 90)
+			(uuid "ece8434c-adef-4060-9866-4bcf16c5068c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART_RX" input
+			(at 125.73 140.97 90)
+			(uuid "f7a30200-306b-4326-98b7-4e4fd1cee548")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART_TX" input
+			(at 128.27 140.97 90)
+			(uuid "fe165e24-26f2-4065-ad49-8c5b044d1f1f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "AcousticGripper_MotherboardV1"
+				(path "/a2ffdf3a-6afe-4edc-947d-25e667632c6c"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 87.63)
+		(size 25.4 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "46ff104a-f49f-4e79-8e4a-d1c55f3e51cb")
+		(property "Sheetname" "Configuration"
+			(at 114.3 86.9184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "config.kicad_sch"
+			(at 114.3 100.9146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ASDO" input
+			(at 114.3 90.17 180)
+			(uuid "fd1b5cc7-32de-453f-ac22-7a385845ec60")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DATA" input
+			(at 114.3 92.71 180)
+			(uuid "4799b2b1-0c60-4c4f-adf0-6d7b04540c51")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DCLK" input
+			(at 114.3 95.25 180)
+			(uuid "fbd8623f-fbb1-4c24-b4e6-c5da3a84f888")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "nCSO" input
+			(at 114.3 97.79 180)
+			(uuid "14041ad8-ec16-47ce-8d4a-9f1449d75be1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TCK" input
+			(at 139.7 90.17 0)
+			(uuid "27c0efc0-0edb-41ab-aee2-580484673947")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TDI" input
+			(at 139.7 97.79 0)
+			(uuid "4e32fe33-737f-43ba-accb-9c674e4b583a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TDO" input
+			(at 139.7 92.71 0)
+			(uuid "79011c0e-49be-4b81-8e7f-8c75eb703234")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TMS" input
+			(at 139.7 95.25 0)
+			(uuid "f920f89c-fade-4f2a-8fbb-c054dc1fdf34")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "AcousticGripper_MotherboardV1"
+				(path "/a2ffdf3a-6afe-4edc-947d-25e667632c6c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 55.245 140.335)
+		(size 24.765 17.145)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "648b72e6-552d-4308-a7fc-c5ee169562cf")
+		(property "Sheetname" "Power_Management"
+			(at 55.245 139.6234 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power_management.kicad_sch"
+			(at 55.245 158.0646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "AcousticGripper_MotherboardV1"
+				(path "/a2ffdf3a-6afe-4edc-947d-25e667632c6c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 122.555)
+		(size 30.48 22.225)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "7a42f4ff-2e51-4677-8ffb-944f9372beda")
+		(property "Sheetname" "IO_Interface"
+			(at 165.1 121.8434 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "io_interface.kicad_sch"
+			(at 165.1 145.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "FPGA_TX[0..79]" input
+			(at 165.1 129.54 180)
+			(uuid "a73e7685-91ea-438d-9a48-88cb020cbe94")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FPGA_RGB" input
+			(at 165.1 127 180)
+			(uuid "2ec5acba-a3ab-4b5a-aa0a-61c38709860d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RGB_LED" input
+			(at 165.1 124.46 180)
+			(uuid "af4d1697-6cd6-43ff-9e4a-67487a4c6fff")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_MotherboardV1"
+				(path "/a2ffdf3a-6afe-4edc-947d-25e667632c6c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 114.3 109.22)
+		(size 25.4 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a8242d66-1a8c-458a-9cc7-3af9e50e801f")
+		(property "Sheetname" "FPGA_Core"
+			(at 114.3 108.5084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga_core.kicad_sch"
+			(at 129.286 132.842 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "ASDO" input
+			(at 114.3 119.38 180)
+			(uuid "c8738096-3dff-46a1-80fe-729f0ebe20a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DATA" input
+			(at 114.3 116.84 180)
+			(uuid "9dceb20a-a36a-49e0-ad0f-f872bbdf26cb")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "DCLK" input
+			(at 114.3 114.3 180)
+			(uuid "539eb237-2bf8-4222-b17c-3511ccafb1a0")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "nCSO" input
+			(at 114.3 111.76 180)
+			(uuid "70b2f136-0a55-455c-b6bd-a9b0ff2eb08c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TCK" input
+			(at 139.7 119.38 0)
+			(uuid "fafd5674-b371-4c54-b179-f3523df1df1e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TDI" input
+			(at 139.7 111.76 0)
+			(uuid "8be768f2-d301-4dd2-8064-48504248c7d5")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TDO" input
+			(at 139.7 116.84 0)
+			(uuid "c4ba28fb-63b0-450d-bcaf-f25dee3276bd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TMS" input
+			(at 139.7 114.3 0)
+			(uuid "1f90f26b-32d4-4fda-b789-cf7520c9d511")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "UART_DIR" input
+			(at 116.84 132.08 270)
+			(uuid "0ab4abe7-d02b-4f56-8517-7e1ac6ad9aae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART_RX" input
+			(at 119.38 132.08 270)
+			(uuid "118148f3-f6d2-4471-a0ef-952bcb5e4188")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "UART_TX" input
+			(at 121.92 132.08 270)
+			(uuid "50815cb0-d5a0-4a6d-bf37-b83af93038a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "FPGA_TX[0..79]" input
+			(at 139.7 129.54 0)
+			(uuid "0e95606d-940c-4897-88e0-8a2a35e4184e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUTTON_1" input
+			(at 139.7 121.92 0)
+			(uuid "93ae014f-f94f-4fbb-8019-65f190a9ac27")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "BUTTON_2" input
+			(at 139.7 124.46 0)
+			(uuid "93e6906a-9956-4395-91f2-fc647653815a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "FPGA_RGB" input
+			(at 139.7 127 0)
+			(uuid "a6d9b6dc-ccab-43c6-978a-560082732f41")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "AcousticGripper_MotherboardV1"
+				(path "/a2ffdf3a-6afe-4edc-947d-25e667632c6c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 161.29 91.44)
+		(size 15.875 10.16)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fbcce1d7-9e41-409c-baf3-04843ba66b60")
+		(property "Sheetname" "User_Interface"
+			(at 161.29 90.7284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "user_interface.kicad_sch"
+			(at 161.29 102.1846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "BUTTON_1" input
+			(at 161.29 93.98 180)
+			(uuid "f43d52b0-640d-42e8-b9fa-1f915bb45190")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "BUTTON_2" input
+			(at 161.29 96.52 180)
+			(uuid "c2516ab5-dd1e-4e71-9cd6-ed64763552ae")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RGB_LED" input
+			(at 161.29 99.06 180)
+			(uuid "09937c2a-37cb-4b84-a744-95f238fe32b3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "AcousticGripper_MotherboardV1"
+				(path "/a2ffdf3a-6afe-4edc-947d-25e667632c6c"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,4 @@
+(version 1)
+(rule "TQFP_Escape"
+   (constraint track_width (min 0.15mm))
+   (condition "A.Name == 'U1'"))

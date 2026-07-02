@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+div, header, section, button, p, span {
+  transition: background-color 300ms ease-in-out, 
+              border-color 300ms ease-in-out, 
+              color 300ms ease-in-out, 
+              box-shadow 300ms ease-in-out;
+}

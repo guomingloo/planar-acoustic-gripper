@@ -1,0 +1,726 @@
+    // --- CHANNEL0_0 ---
+    calc_phase #(.X_POS(`CH0_0_X), .Y_POS(`CH0_0_Y), .Z_POS(`CH0_0_Z)) calc_unit_ch0_0 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[0])
+    );
+    pwm_channel pwm_unit_ch0_0 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[0]), .pwm_out(pwm[0])
+    );
+
+    // --- CHANNEL0_1 ---
+    calc_phase #(.X_POS(`CH0_1_X), .Y_POS(`CH0_1_Y), .Z_POS(`CH0_1_Z)) calc_unit_ch0_1 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[1])
+    );
+    pwm_channel pwm_unit_ch0_1 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[1]), .pwm_out(pwm[1])
+    );
+
+    // --- CHANNEL0_2 ---
+    calc_phase #(.X_POS(`CH0_2_X), .Y_POS(`CH0_2_Y), .Z_POS(`CH0_2_Z)) calc_unit_ch0_2 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[2])
+    );
+    pwm_channel pwm_unit_ch0_2 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[2]), .pwm_out(pwm[2])
+    );
+
+    // --- CHANNEL0_3 ---
+    calc_phase #(.X_POS(`CH0_3_X), .Y_POS(`CH0_3_Y), .Z_POS(`CH0_3_Z)) calc_unit_ch0_3 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[3])
+    );
+    pwm_channel pwm_unit_ch0_3 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[3]), .pwm_out(pwm[3])
+    );
+
+    // --- CHANNEL0_4 ---
+    calc_phase #(.X_POS(`CH0_4_X), .Y_POS(`CH0_4_Y), .Z_POS(`CH0_4_Z)) calc_unit_ch0_4 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[4])
+    );
+    pwm_channel pwm_unit_ch0_4 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[4]), .pwm_out(pwm[4])
+    );
+
+    // --- CHANNEL0_5 ---
+    calc_phase #(.X_POS(`CH0_5_X), .Y_POS(`CH0_5_Y), .Z_POS(`CH0_5_Z)) calc_unit_ch0_5 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[5])
+    );
+    pwm_channel pwm_unit_ch0_5 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[5]), .pwm_out(pwm[5])
+    );
+
+    // --- CHANNEL0_6 ---
+    calc_phase #(.X_POS(`CH0_6_X), .Y_POS(`CH0_6_Y), .Z_POS(`CH0_6_Z)) calc_unit_ch0_6 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[6])
+    );
+    pwm_channel pwm_unit_ch0_6 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[6]), .pwm_out(pwm[6])
+    );
+
+    // --- CHANNEL0_7 ---
+    calc_phase #(.X_POS(`CH0_7_X), .Y_POS(`CH0_7_Y), .Z_POS(`CH0_7_Z)) calc_unit_ch0_7 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[7])
+    );
+    pwm_channel pwm_unit_ch0_7 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[7]), .pwm_out(pwm[7])
+    );
+
+    // --- CHANNEL0_8 ---
+    calc_phase #(.X_POS(`CH0_8_X), .Y_POS(`CH0_8_Y), .Z_POS(`CH0_8_Z)) calc_unit_ch0_8 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[8])
+    );
+    pwm_channel pwm_unit_ch0_8 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[8]), .pwm_out(pwm[8])
+    );
+
+    // --- CHANNEL0_9 ---
+    calc_phase #(.X_POS(`CH0_9_X), .Y_POS(`CH0_9_Y), .Z_POS(`CH0_9_Z)) calc_unit_ch0_9 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[9])
+    );
+    pwm_channel pwm_unit_ch0_9 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[9]), .pwm_out(pwm[9])
+    );
+
+    // --- CHANNEL0_10 ---
+    calc_phase #(.X_POS(`CH0_10_X), .Y_POS(`CH0_10_Y), .Z_POS(`CH0_10_Z)) calc_unit_ch0_10 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[10])
+    );
+    pwm_channel pwm_unit_ch0_10 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[10]), .pwm_out(pwm[10])
+    );
+
+    // --- CHANNEL0_11 ---
+    calc_phase #(.X_POS(`CH0_11_X), .Y_POS(`CH0_11_Y), .Z_POS(`CH0_11_Z)) calc_unit_ch0_11 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[11])
+    );
+    pwm_channel pwm_unit_ch0_11 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[11]), .pwm_out(pwm[11])
+    );
+
+    // --- CHANNEL0_12 ---
+    calc_phase #(.X_POS(`CH0_12_X), .Y_POS(`CH0_12_Y), .Z_POS(`CH0_12_Z)) calc_unit_ch0_12 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[12])
+    );
+    pwm_channel pwm_unit_ch0_12 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[12]), .pwm_out(pwm[12])
+    );
+
+    // --- CHANNEL0_13 ---
+    calc_phase #(.X_POS(`CH0_13_X), .Y_POS(`CH0_13_Y), .Z_POS(`CH0_13_Z)) calc_unit_ch0_13 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[13])
+    );
+    pwm_channel pwm_unit_ch0_13 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[13]), .pwm_out(pwm[13])
+    );
+
+    // --- CHANNEL0_14 ---
+    calc_phase #(.X_POS(`CH0_14_X), .Y_POS(`CH0_14_Y), .Z_POS(`CH0_14_Z)) calc_unit_ch0_14 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[14])
+    );
+    pwm_channel pwm_unit_ch0_14 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[14]), .pwm_out(pwm[14])
+    );
+
+    // --- CHANNEL0_15 ---
+    calc_phase #(.X_POS(`CH0_15_X), .Y_POS(`CH0_15_Y), .Z_POS(`CH0_15_Z)) calc_unit_ch0_15 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[15])
+    );
+    pwm_channel pwm_unit_ch0_15 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[15]), .pwm_out(pwm[15])
+    );
+
+    // --- CHANNEL0_16 ---
+    calc_phase #(.X_POS(`CH0_16_X), .Y_POS(`CH0_16_Y), .Z_POS(`CH0_16_Z)) calc_unit_ch0_16 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[16])
+    );
+    pwm_channel pwm_unit_ch0_16 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[16]), .pwm_out(pwm[16])
+    );
+
+    // --- CHANNEL0_17 ---
+    calc_phase #(.X_POS(`CH0_17_X), .Y_POS(`CH0_17_Y), .Z_POS(`CH0_17_Z)) calc_unit_ch0_17 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[17])
+    );
+    pwm_channel pwm_unit_ch0_17 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[17]), .pwm_out(pwm[17])
+    );
+
+    // --- CHANNEL0_18 ---
+    calc_phase #(.X_POS(`CH0_18_X), .Y_POS(`CH0_18_Y), .Z_POS(`CH0_18_Z)) calc_unit_ch0_18 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[18])
+    );
+    pwm_channel pwm_unit_ch0_18 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[18]), .pwm_out(pwm[18])
+    );
+
+    // --- CHANNEL0_19 ---
+    calc_phase #(.X_POS(`CH0_19_X), .Y_POS(`CH0_19_Y), .Z_POS(`CH0_19_Z)) calc_unit_ch0_19 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[19])
+    );
+    pwm_channel pwm_unit_ch0_19 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[19]), .pwm_out(pwm[19])
+    );
+
+    // --- CHANNEL0_20 ---
+    calc_phase #(.X_POS(`CH0_20_X), .Y_POS(`CH0_20_Y), .Z_POS(`CH0_20_Z)) calc_unit_ch0_20 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[20])
+    );
+    pwm_channel pwm_unit_ch0_20 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[20]), .pwm_out(pwm[20])
+    );
+
+    // --- CHANNEL0_21 ---
+    calc_phase #(.X_POS(`CH0_21_X), .Y_POS(`CH0_21_Y), .Z_POS(`CH0_21_Z)) calc_unit_ch0_21 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[21])
+    );
+    pwm_channel pwm_unit_ch0_21 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[21]), .pwm_out(pwm[21])
+    );
+
+    // --- CHANNEL0_22 ---
+    calc_phase #(.X_POS(`CH0_22_X), .Y_POS(`CH0_22_Y), .Z_POS(`CH0_22_Z)) calc_unit_ch0_22 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[22])
+    );
+    pwm_channel pwm_unit_ch0_22 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[22]), .pwm_out(pwm[22])
+    );
+
+    // --- CHANNEL0_23 ---
+    calc_phase #(.X_POS(`CH0_23_X), .Y_POS(`CH0_23_Y), .Z_POS(`CH0_23_Z)) calc_unit_ch0_23 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[23])
+    );
+    pwm_channel pwm_unit_ch0_23 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[23]), .pwm_out(pwm[23])
+    );
+
+    // --- CHANNEL0_24 ---
+    calc_phase #(.X_POS(`CH0_24_X), .Y_POS(`CH0_24_Y), .Z_POS(`CH0_24_Z)) calc_unit_ch0_24 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[24])
+    );
+    pwm_channel pwm_unit_ch0_24 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[24]), .pwm_out(pwm[24])
+    );
+
+    // --- CHANNEL0_25 ---
+    calc_phase #(.X_POS(`CH0_25_X), .Y_POS(`CH0_25_Y), .Z_POS(`CH0_25_Z)) calc_unit_ch0_25 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[25])
+    );
+    pwm_channel pwm_unit_ch0_25 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[25]), .pwm_out(pwm[25])
+    );
+
+    // --- CHANNEL0_26 ---
+    calc_phase #(.X_POS(`CH0_26_X), .Y_POS(`CH0_26_Y), .Z_POS(`CH0_26_Z)) calc_unit_ch0_26 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[26])
+    );
+    pwm_channel pwm_unit_ch0_26 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[26]), .pwm_out(pwm[26])
+    );
+
+    // --- CHANNEL0_27 ---
+    calc_phase #(.X_POS(`CH0_27_X), .Y_POS(`CH0_27_Y), .Z_POS(`CH0_27_Z)) calc_unit_ch0_27 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[27])
+    );
+    pwm_channel pwm_unit_ch0_27 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[27]), .pwm_out(pwm[27])
+    );
+
+    // --- CHANNEL0_28 ---
+    calc_phase #(.X_POS(`CH0_28_X), .Y_POS(`CH0_28_Y), .Z_POS(`CH0_28_Z)) calc_unit_ch0_28 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[28])
+    );
+    pwm_channel pwm_unit_ch0_28 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[28]), .pwm_out(pwm[28])
+    );
+
+    // --- CHANNEL0_29 ---
+    calc_phase #(.X_POS(`CH0_29_X), .Y_POS(`CH0_29_Y), .Z_POS(`CH0_29_Z)) calc_unit_ch0_29 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[29])
+    );
+    pwm_channel pwm_unit_ch0_29 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[29]), .pwm_out(pwm[29])
+    );
+
+    // --- CHANNEL0_30 ---
+    calc_phase #(.X_POS(`CH0_30_X), .Y_POS(`CH0_30_Y), .Z_POS(`CH0_30_Z)) calc_unit_ch0_30 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[30])
+    );
+    pwm_channel pwm_unit_ch0_30 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[30]), .pwm_out(pwm[30])
+    );
+
+    // --- CHANNEL0_31 ---
+    calc_phase #(.X_POS(`CH0_31_X), .Y_POS(`CH0_31_Y), .Z_POS(`CH0_31_Z)) calc_unit_ch0_31 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[31])
+    );
+    pwm_channel pwm_unit_ch0_31 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[31]), .pwm_out(pwm[31])
+    );
+
+    // --- CHANNEL0_32 ---
+    calc_phase #(.X_POS(`CH0_32_X), .Y_POS(`CH0_32_Y), .Z_POS(`CH0_32_Z)) calc_unit_ch0_32 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[32])
+    );
+    pwm_channel pwm_unit_ch0_32 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[32]), .pwm_out(pwm[32])
+    );
+
+    // --- CHANNEL1_0 ---
+    calc_phase #(.X_POS(`CH1_0_X), .Y_POS(`CH1_0_Y), .Z_POS(`CH1_0_Z)) calc_unit_ch1_0 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[33])
+    );
+    pwm_channel pwm_unit_ch1_0 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[33]), .pwm_out(pwm[33])
+    );
+
+    // --- CHANNEL1_1 ---
+    calc_phase #(.X_POS(`CH1_1_X), .Y_POS(`CH1_1_Y), .Z_POS(`CH1_1_Z)) calc_unit_ch1_1 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[34])
+    );
+    pwm_channel pwm_unit_ch1_1 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[34]), .pwm_out(pwm[34])
+    );
+
+    // --- CHANNEL1_2 ---
+    calc_phase #(.X_POS(`CH1_2_X), .Y_POS(`CH1_2_Y), .Z_POS(`CH1_2_Z)) calc_unit_ch1_2 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[35])
+    );
+    pwm_channel pwm_unit_ch1_2 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[35]), .pwm_out(pwm[35])
+    );
+
+    // --- CHANNEL1_3 ---
+    calc_phase #(.X_POS(`CH1_3_X), .Y_POS(`CH1_3_Y), .Z_POS(`CH1_3_Z)) calc_unit_ch1_3 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[36])
+    );
+    pwm_channel pwm_unit_ch1_3 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[36]), .pwm_out(pwm[36])
+    );
+
+    // --- CHANNEL1_4 ---
+    calc_phase #(.X_POS(`CH1_4_X), .Y_POS(`CH1_4_Y), .Z_POS(`CH1_4_Z)) calc_unit_ch1_4 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[37])
+    );
+    pwm_channel pwm_unit_ch1_4 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[37]), .pwm_out(pwm[37])
+    );
+
+    // --- CHANNEL1_5 ---
+    calc_phase #(.X_POS(`CH1_5_X), .Y_POS(`CH1_5_Y), .Z_POS(`CH1_5_Z)) calc_unit_ch1_5 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[38])
+    );
+    pwm_channel pwm_unit_ch1_5 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[38]), .pwm_out(pwm[38])
+    );
+
+    // --- CHANNEL1_6 ---
+    calc_phase #(.X_POS(`CH1_6_X), .Y_POS(`CH1_6_Y), .Z_POS(`CH1_6_Z)) calc_unit_ch1_6 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[39])
+    );
+    pwm_channel pwm_unit_ch1_6 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[39]), .pwm_out(pwm[39])
+    );
+
+    // --- CHANNEL1_7 ---
+    calc_phase #(.X_POS(`CH1_7_X), .Y_POS(`CH1_7_Y), .Z_POS(`CH1_7_Z)) calc_unit_ch1_7 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[40])
+    );
+    pwm_channel pwm_unit_ch1_7 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[40]), .pwm_out(pwm[40])
+    );
+
+    // --- CHANNEL1_8 ---
+    calc_phase #(.X_POS(`CH1_8_X), .Y_POS(`CH1_8_Y), .Z_POS(`CH1_8_Z)) calc_unit_ch1_8 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[41])
+    );
+    pwm_channel pwm_unit_ch1_8 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[41]), .pwm_out(pwm[41])
+    );
+
+    // --- CHANNEL1_9 ---
+    calc_phase #(.X_POS(`CH1_9_X), .Y_POS(`CH1_9_Y), .Z_POS(`CH1_9_Z)) calc_unit_ch1_9 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[42])
+    );
+    pwm_channel pwm_unit_ch1_9 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[42]), .pwm_out(pwm[42])
+    );
+
+    // --- CHANNEL1_10 ---
+    calc_phase #(.X_POS(`CH1_10_X), .Y_POS(`CH1_10_Y), .Z_POS(`CH1_10_Z)) calc_unit_ch1_10 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[43])
+    );
+    pwm_channel pwm_unit_ch1_10 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[43]), .pwm_out(pwm[43])
+    );
+
+    // --- CHANNEL1_11 ---
+    calc_phase #(.X_POS(`CH1_11_X), .Y_POS(`CH1_11_Y), .Z_POS(`CH1_11_Z)) calc_unit_ch1_11 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[44])
+    );
+    pwm_channel pwm_unit_ch1_11 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[44]), .pwm_out(pwm[44])
+    );
+
+    // --- CHANNEL1_12 ---
+    calc_phase #(.X_POS(`CH1_12_X), .Y_POS(`CH1_12_Y), .Z_POS(`CH1_12_Z)) calc_unit_ch1_12 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[45])
+    );
+    pwm_channel pwm_unit_ch1_12 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[45]), .pwm_out(pwm[45])
+    );
+
+    // --- CHANNEL1_13 ---
+    calc_phase #(.X_POS(`CH1_13_X), .Y_POS(`CH1_13_Y), .Z_POS(`CH1_13_Z)) calc_unit_ch1_13 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[46])
+    );
+    pwm_channel pwm_unit_ch1_13 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[46]), .pwm_out(pwm[46])
+    );
+
+    // --- CHANNEL1_14 ---
+    calc_phase #(.X_POS(`CH1_14_X), .Y_POS(`CH1_14_Y), .Z_POS(`CH1_14_Z)) calc_unit_ch1_14 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[47])
+    );
+    pwm_channel pwm_unit_ch1_14 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[47]), .pwm_out(pwm[47])
+    );
+
+    // --- CHANNEL1_15 ---
+    calc_phase #(.X_POS(`CH1_15_X), .Y_POS(`CH1_15_Y), .Z_POS(`CH1_15_Z)) calc_unit_ch1_15 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[48])
+    );
+    pwm_channel pwm_unit_ch1_15 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[48]), .pwm_out(pwm[48])
+    );
+
+    // --- CHANNEL1_16 ---
+    calc_phase #(.X_POS(`CH1_16_X), .Y_POS(`CH1_16_Y), .Z_POS(`CH1_16_Z)) calc_unit_ch1_16 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[49])
+    );
+    pwm_channel pwm_unit_ch1_16 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[49]), .pwm_out(pwm[49])
+    );
+
+    // --- CHANNEL1_17 ---
+    calc_phase #(.X_POS(`CH1_17_X), .Y_POS(`CH1_17_Y), .Z_POS(`CH1_17_Z)) calc_unit_ch1_17 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[50])
+    );
+    pwm_channel pwm_unit_ch1_17 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[50]), .pwm_out(pwm[50])
+    );
+
+    // --- CHANNEL1_18 ---
+    calc_phase #(.X_POS(`CH1_18_X), .Y_POS(`CH1_18_Y), .Z_POS(`CH1_18_Z)) calc_unit_ch1_18 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[51])
+    );
+    pwm_channel pwm_unit_ch1_18 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[51]), .pwm_out(pwm[51])
+    );
+
+    // --- CHANNEL1_19 ---
+    calc_phase #(.X_POS(`CH1_19_X), .Y_POS(`CH1_19_Y), .Z_POS(`CH1_19_Z)) calc_unit_ch1_19 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[52])
+    );
+    pwm_channel pwm_unit_ch1_19 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[52]), .pwm_out(pwm[52])
+    );
+
+    // --- CHANNEL1_20 ---
+    calc_phase #(.X_POS(`CH1_20_X), .Y_POS(`CH1_20_Y), .Z_POS(`CH1_20_Z)) calc_unit_ch1_20 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[53])
+    );
+    pwm_channel pwm_unit_ch1_20 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[53]), .pwm_out(pwm[53])
+    );
+
+    // --- CHANNEL1_21 ---
+    calc_phase #(.X_POS(`CH1_21_X), .Y_POS(`CH1_21_Y), .Z_POS(`CH1_21_Z)) calc_unit_ch1_21 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[54])
+    );
+    pwm_channel pwm_unit_ch1_21 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[54]), .pwm_out(pwm[54])
+    );
+
+    // --- CHANNEL1_22 ---
+    calc_phase #(.X_POS(`CH1_22_X), .Y_POS(`CH1_22_Y), .Z_POS(`CH1_22_Z)) calc_unit_ch1_22 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[55])
+    );
+    pwm_channel pwm_unit_ch1_22 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[55]), .pwm_out(pwm[55])
+    );
+
+    // --- CHANNEL1_23 ---
+    calc_phase #(.X_POS(`CH1_23_X), .Y_POS(`CH1_23_Y), .Z_POS(`CH1_23_Z)) calc_unit_ch1_23 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[56])
+    );
+    pwm_channel pwm_unit_ch1_23 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[56]), .pwm_out(pwm[56])
+    );
+
+    // --- CHANNEL1_24 ---
+    calc_phase #(.X_POS(`CH1_24_X), .Y_POS(`CH1_24_Y), .Z_POS(`CH1_24_Z)) calc_unit_ch1_24 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[57])
+    );
+    pwm_channel pwm_unit_ch1_24 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[57]), .pwm_out(pwm[57])
+    );
+
+    // --- CHANNEL1_25 ---
+    calc_phase #(.X_POS(`CH1_25_X), .Y_POS(`CH1_25_Y), .Z_POS(`CH1_25_Z)) calc_unit_ch1_25 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[58])
+    );
+    pwm_channel pwm_unit_ch1_25 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[58]), .pwm_out(pwm[58])
+    );
+
+    // --- CHANNEL1_26 ---
+    calc_phase #(.X_POS(`CH1_26_X), .Y_POS(`CH1_26_Y), .Z_POS(`CH1_26_Z)) calc_unit_ch1_26 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[59])
+    );
+    pwm_channel pwm_unit_ch1_26 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[59]), .pwm_out(pwm[59])
+    );
+
+    // --- CHANNEL1_27 ---
+    calc_phase #(.X_POS(`CH1_27_X), .Y_POS(`CH1_27_Y), .Z_POS(`CH1_27_Z)) calc_unit_ch1_27 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[60])
+    );
+    pwm_channel pwm_unit_ch1_27 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[60]), .pwm_out(pwm[60])
+    );
+
+    // --- CHANNEL1_28 ---
+    calc_phase #(.X_POS(`CH1_28_X), .Y_POS(`CH1_28_Y), .Z_POS(`CH1_28_Z)) calc_unit_ch1_28 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[61])
+    );
+    pwm_channel pwm_unit_ch1_28 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[61]), .pwm_out(pwm[61])
+    );
+
+    // --- CHANNEL1_29 ---
+    calc_phase #(.X_POS(`CH1_29_X), .Y_POS(`CH1_29_Y), .Z_POS(`CH1_29_Z)) calc_unit_ch1_29 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[62])
+    );
+    pwm_channel pwm_unit_ch1_29 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[62]), .pwm_out(pwm[62])
+    );
+
+    // --- CHANNEL1_30 ---
+    calc_phase #(.X_POS(`CH1_30_X), .Y_POS(`CH1_30_Y), .Z_POS(`CH1_30_Z)) calc_unit_ch1_30 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[63])
+    );
+    pwm_channel pwm_unit_ch1_30 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[63]), .pwm_out(pwm[63])
+    );
+
+    // --- CHANNEL1_31 ---
+    calc_phase #(.X_POS(`CH1_31_X), .Y_POS(`CH1_31_Y), .Z_POS(`CH1_31_Z)) calc_unit_ch1_31 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[64])
+    );
+    pwm_channel pwm_unit_ch1_31 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[64]), .pwm_out(pwm[64])
+    );
+
+    // --- CHANNEL1_32 ---
+    calc_phase #(.X_POS(`CH1_32_X), .Y_POS(`CH1_32_Y), .Z_POS(`CH1_32_Z)) calc_unit_ch1_32 (
+        .clk(clk), .rst_n(rst_n),
+        .target_x(target_x), .target_y(target_y), .target_z(target_z),
+        .phase(phase[65])
+    );
+    pwm_channel pwm_unit_ch1_32 (
+        .clk(clk), .rst_n(rst_n),
+        .master_counter(master_counter), .phase(phase[65]), .pwm_out(pwm[65])
+    );
+

@@ -1,0 +1,6 @@
+div, header, section, button, p, span {
+  transition: background-color 1300ms ease-in-out, 
+              border-color 1300ms ease-in-out, 
+              color 1300ms ease-in-out, 
+              box-shadow 1300ms ease-in-out;
+}

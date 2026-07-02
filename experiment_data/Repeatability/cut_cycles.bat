@@ -1,0 +1,12 @@
+ffmpeg -i Repeatability.mp4 -ss 00:00:54 -to 00:00:56 -c copy cycle1.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:01:47 -to 00:01:49 -c copy cycle2.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:02:40 -to 00:02:42 -c copy cycle3.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:03:33 -to 00:03:35 -c copy cycle4.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:04:26 -to 00:04:28 -c copy cycle5.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:05:19 -to 00:05:21 -c copy cycle6.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:06:12 -to 00:06:14 -c copy cycle7.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:07:05 -to 00:07:07 -c copy cycle8.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:07:58 -to 00:08:00 -c copy cycle9.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:08:50 -to 00:08:53 -c copy cycle10.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:09:44 -to 00:09:46 -c copy cycle11.mp4
+ffmpeg -i Repeatability.mp4 -ss 00:10:37 -to 00:10:39 -c copy cycle12.mp4
